@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SimonBoldi12/GrandHotelOhio-BE.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SimonBoldi12/GrandHotelOhio-FE
