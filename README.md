@@ -48,3 +48,5 @@ NYÍREGYHÁZA
   ```
 
 - Ezután a <http://localhost:5173> címen lehet elérni az alkalmazást.
+
+Note: This repository is currently kept in its submitted exam state until June 15. Sensitive credentials used during development have been rotated and will be migrated to environment-based configuration after the submission period.
